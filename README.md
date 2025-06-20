@@ -76,12 +76,6 @@
 
 ---
 
-## 🚀 Status
-
-Slurp is currently in **active development**. Core features are functional, and backend integrations are live. Analytics, journaling AI, and mood-based recommendations are being fine-tuned.
-
----
-
 ## 📦 Future Plans
 
 - Offline journaling support
